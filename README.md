@@ -1,5 +1,9 @@
 🚀 gitAuto: GitHub Deployment Platform
 
+https://github.com/user-attachments/assets/f0fd7dbe-542f-4e33-91e9-e62caad971b0
+
+
+
 Welcome to gitAuto, a streamlined automation tool designed to simplify your GitHub project deployment workflow. This project aims to provide an efficient way to manage builds, deployments, and live logs directly from your GitHub repositories.
 Features
 > Automated Builds: Automatically fetch repository code and build your projects with ease.
